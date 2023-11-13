@@ -1,0 +1,8 @@
+boto3
+fastapi[uvicorn]
+uvicorn
+assemblyai
+pydub
+pandas
+mangum
+requests
